@@ -3,3 +3,4 @@ alias ll='eza -la --git'
 alias g='git'
 alias bench_1='hyperfine --warmup 2' # 2026-11-18 (4550a0d2)
 alias bench_2='hyperfine --warmup 2' # 2026-11-19 (270af915)
+alias gl='git log --oneline -n 20'
